@@ -1,3 +1,4 @@
+##Gerado por IA
 # 📦 Sistema de Gerenciamento de Estoque
 
 ## 📌 Visão Geral
